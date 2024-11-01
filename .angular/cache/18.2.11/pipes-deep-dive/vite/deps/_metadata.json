@@ -1,0 +1,34 @@
+{
+  "hash": "117a5e0f",
+  "configHash": "4df52e07",
+  "lockfileHash": "0903296d",
+  "browserHash": "2b2a1d7b",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "1bb003cc",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "5a69ba9e",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "8834e6a0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BOCMITSL": {
+      "file": "chunk-BOCMITSL.js"
+    },
+    "chunk-RVOT7NYL": {
+      "file": "chunk-RVOT7NYL.js"
+    }
+  }
+}
